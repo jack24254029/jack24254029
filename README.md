@@ -1,3 +1,1 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jack24254029&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=jack24254029&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=gruvbox)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jack24254029&theme=dark&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
